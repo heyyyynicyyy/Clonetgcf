@@ -26,9 +26,7 @@ past:
 
 plugins:
   # specify the plugins you want to use
-  filter:
-    text:
-     blacklist: ["badword"]
+  
       
 
 # read full documentation of plugins here https://git.io/J3NuC
