@@ -1,10 +1,9 @@
 admins: []
 forwards:
-- source: -1001593408420
+- source: -1001222164511
   dest:
   - -1001511215621
-  offset: 1706
-  end: 0
+  offset: 0
 show_forwarded_from: false
 live:
   delete_sync: false
