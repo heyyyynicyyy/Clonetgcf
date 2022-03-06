@@ -3,11 +3,11 @@ forwards:
 - source: -1001542157449
   dest:
   - -1001583330090
-  offset: 0
+  offset: 9497
 show_forwarded_from: false
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 2.0
+  delay: 1.0
 plugins: {}
