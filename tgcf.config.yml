@@ -9,5 +9,5 @@ live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 2.0
+  delay: 5.0
 plugins: {}
