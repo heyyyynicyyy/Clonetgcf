@@ -4,11 +4,10 @@ forwards:
   dest:
   - -1001515802491
   offset: 500
-  end: 0
 show_forwarded_from: false
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 3.0
+  delay: 2.0
 plugins: {}
