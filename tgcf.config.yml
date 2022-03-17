@@ -1,14 +1,13 @@
 admins: []
 forwards:
-- source: -1001611511184
+- source: -1001170613264
   dest:
   - -1001583330090
-  offset: 7361
-  end: 0
+  offset: 0
 show_forwarded_from: false
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 1.0
+  delay: 1.5
 plugins: {}
