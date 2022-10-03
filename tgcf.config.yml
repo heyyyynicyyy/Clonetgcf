@@ -3,7 +3,7 @@ forwards:
 - source: -1001279318929
   dest:
   - -1001729578672
-  offset: 11652
+  offset: 21288
 show_forwarded_from: false
 live:
   delete_sync: false
